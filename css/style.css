@@ -130,9 +130,3 @@ body {
         font-size: 12px;
     }
 }
-
-@media (min-width: 601px) {
-    .cell {
-        font-size: 16px;
-    }
-}
